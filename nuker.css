@@ -1,9 +1,3 @@
-/*
-If you're a skid, can devtools and understand some basic html5 stuffs,
- create a search result dump(copy shits) and send it to ChatGPT then ask it for an AD hider written
- in pure CSS for it, here it is.
-*/
-
 #b_topw,
 #b_results li.b_ad,
 #b_results li.b_algo:has(.b_attribution[u]),
